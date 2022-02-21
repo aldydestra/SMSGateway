@@ -10,6 +10,9 @@ Informasi tentang `GAMMU` dapat diakses melalui:
 ```bash
 https://wammu.eu/gammu/
 ```
+```bash
+https://wammu.eu/download/gammu/
+```
 
 ## Fitur
 ------SEGERA-------
