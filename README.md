@@ -1,4 +1,5 @@
-## SMSGateway
+## SMSGateway [Discontinued]
+Project tidak akan mendapat pembaruan karena alasan pribadi.
 Simple SMS Gateway ini dikembangkan dengan `PHP 7` dan `GAMMU` sebagai aplikasi penghubung Perangkat SMS dan Komputer
 
 ## GAMMU
